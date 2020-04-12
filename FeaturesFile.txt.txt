@@ -1,0 +1,2 @@
+1. Implement COVID stats
+2. Implement weather stats
